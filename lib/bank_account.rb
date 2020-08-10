@@ -13,7 +13,7 @@ def deposit(amount)
 end 
 
 def display_balance
-  "Your Balance is $#{@balance}."
+  "Your balance is $#{@balance}."
 end 
 
 
